@@ -1,4 +1,3 @@
-PS: Don't hesitate  give a star ⭐ :heart: :star: 
 
 # k8s-cluster
 
